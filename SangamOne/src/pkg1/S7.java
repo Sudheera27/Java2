@@ -1,5 +1,7 @@
 package pkg1;
 
+import java.util.Scanner;
+
 public class S7 {
 	public static void table1(int num1,int num2) {
 		int start=num1;
@@ -15,8 +17,12 @@ public class S7 {
 	}
 
 	public static void main(String[] args) {
-		table1(500,502);
-		table1(2000,2005);
+		Scanner sc1=new Scanner(System.in);
+		System.out.print("Enter first number:");
+		int num1 = sc1.nextInt();
+		System.out.print("Enter second number:");
+		int num2 = sc1.nextInt();
+		table1(num1,num2);
 	
 		
 	}
