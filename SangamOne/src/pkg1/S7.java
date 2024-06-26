@@ -1,7 +1,10 @@
 package pkg1;
 
 import java.util.Scanner;
-
+/*Scanner is a class which enables you to read from an external source.
+ * Scanner.nextInt(System.in) will take an integer input from keyboard.
+ * Scanner.nextLine(System.in) will take an entire string from keyboard.
+ */
 public class S7 {
 	public static void table1(int num1,int num2) {
 		int start=num1;
