@@ -1,0 +1,15 @@
+1 kilometers = 0.625 miles
+1 miles = 1.6 kilometers
+
+1 centimeters = 0.01 meter
+1 meter = 100.0 centimeters
+
+1 liters = 0.2222222222222222 gallon
+1 gallon = 4.5 liters
+
+1 USD = 83.0 INR
+1 INR = 0.012048192771084338 USD
+
+1 centimeters = 0.03278688524590164 feet
+1 feet = 30.5 centimeters
+
